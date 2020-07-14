@@ -1,0 +1,55 @@
+*{
+	box-sizing: border-box;
+}
+
+.navbar-brand{
+	height: 500px;
+}
+#header-nav{
+      background-color:  #61122f;
+      border: 0;
+      border-radius: 0;
+      height: 100px;
+    }
+h1{
+	text-align: center;
+	color: black;
+	font-size: 1.75em;
+	margin-bottom: 10px;
+}
+a h1{
+	color: #00FFFF;
+	text-align: left;
+}
+.chicken
+{   margin-top: 10px;
+	text-align:center;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #61122f;
+}
+section{
+	background-color: #FFFF00;
+	border: 1px solid black;
+	margin: 5px;
+	}
+
+p {
+  color: blue;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ #nav-list
+ {
+ 	
+ 	margin-top: 10px;
+ 	
+ }
+ #nav-list a{
+      
+      text-align: center;
+  }
+ #collapsable-nav{
+ 	background-color: pink;
+ 	position: relative;
+ }
