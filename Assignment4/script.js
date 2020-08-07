@@ -11,5 +11,14 @@ function greeting(str)
   	console.log("Hello "+arr);
 }
 }
-greeting("joe");
-greeting("Sam");
+
+greeting("Yaakov");
+greeting("John");
+greeting("Jen");
+greeting("Jason");
+greeting("Paul");
+greeting("Frank");
+greeting("Larry");
+greeting("Paula");
+greeting("Laura");
+greeting("Jim");
